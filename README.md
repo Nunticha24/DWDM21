@@ -5,12 +5,12 @@ Nunticha Wichit 623020526-8
 
 Group Name:
 
-1 **Nunticha Wichit**
+1 **_Nunticha Wichit_**
 
-2 **Mintra Tippayaratsoontorn**
+2 Mintra Tippayaratsoontorn
 
-3 **Kanyarat Saensombat**
+3 Kanyarat Saensombat
 
-4 **Thitichaya Kraiwong**
+4 Thitichaya Kraiwong
 
-5 **Sasikarn Boonme**
+5 Sasikarn Boonme
