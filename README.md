@@ -3,7 +3,7 @@ Data Warehouse &amp; Data Mining 2021
 
 Nunticha Wichit 623020526-8
 
-Group Name:
+Group Name: ลูกหมี
 
 1 **_Nunticha Wichit_**
 
