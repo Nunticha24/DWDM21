@@ -19,13 +19,6 @@ Group Name: ลูกหมี
 
 * บทที่ 1 Introduction 
   * [Lecture Introduction](https://github.com/Nunticha24/DWDM21/blob/main/Chapter1.pdf)
-    * Why Data Mining?
-    * What is Data Mining?
-    * Knowledge Discovery (KDD) Process
-    * Data Mining Functions
-      * Pattern Discovery
-      * Classification
-      * Cluster Analysis
 
 * บทที่ 2 Getting to Know Your Data 
   * [Lecture Data Objects and Attribute Types](https://github.com/Nunticha24/DWDM21/blob/main/Chapter2.pdf)
