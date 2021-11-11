@@ -18,7 +18,7 @@ Group Name: ลูกหมี
 # สารบัญเนื้อหา
 
 * บทที่ 1 Introduction 
-  * [title](https://www.example.com)
+  * [Lecture Introduction](https://github.com/Nunticha24/DWDM21/blob/main/Chapter1.pdf)
     * Why Data Mining?
     * What is Data Mining?
     * Knowledge Discovery (KDD) Process
@@ -28,7 +28,7 @@ Group Name: ลูกหมี
       * Cluster Analysis
 
 * บทที่ 2 Getting to Know Your Data 
-  * [Lecture Data Objects and Attribute Types]https://github.com/Nunticha24/DWDM21/blob/main/Chapter2.pdf
+  * [Lecture Data Objects and Attribute Types](https://github.com/Nunticha24/DWDM21/blob/main/Chapter2.pdf)
     * Types of Data Sets
       * Record Data
       * Graphs and Networks
@@ -40,18 +40,18 @@ Group Name: ลูกหมี
     * Attribute Types
     * Numeric Attribute Types
     * Basic Statistical Descriptions of Data
-  * https://github.com/Nunticha24/DWDM21/blob/main/Data101_(chapter2).ipynb
+  * [Basic Python](https://github.com/Nunticha24/DWDM21/blob/main/Data101_(chapter2).ipynb)
     * Basic python
       * Variables
       * Data structure
       * Loop
       * Condition
       * Function
-  * https://github.com/Nunticha24/DWDM21/blob/main/Data102_(chapter2).ipynb
+  * [Pandas](https://github.com/Nunticha24/DWDM21/blob/main/Data102_(chapter2).ipynb)
     * Data Exploratio
       * Boxplot
       * Times Series Plot
-  * https://github.com/Nunticha24/DWDM21/blob/main/Data_Visualization.ipynb
+  * [Visualization](https://github.com/Nunticha24/DWDM21/blob/main/Data_Visualization.ipynb)
     * Data Visualization
       * Scatter plot
       * Plot
@@ -59,7 +59,7 @@ Group Name: ลูกหมี
         * Grouped Barchart
         * Stacked Barchart
       * Histogram
-  * https://github.com/Nunticha24/DWDM21/blob/main/Distance_Numpy.ipynb
+  * [Distance_Numpy](https://github.com/Nunticha24/DWDM21/blob/main/Distance_Numpy.ipynb)
     * Distance Numpy
       * Numpy Array
         * สร้าง numpy array (matrix) จาก list
@@ -75,8 +75,8 @@ Group Name: ลูกหมี
         * Distance of Binary Value
 
 * บทที่ 3 Data Preprocessing
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter3.pdf
-  * https://github.com/Nunticha24/DWDM21/blob/main/Data_Preprocessing_(chapter_3).ipynb
+  * [Lecture Data Preprocessing](https://github.com/Nunticha24/DWDM21/blob/main/Chapter3.pdf)
+  * [Data Preprocessing](https://github.com/Nunticha24/DWDM21/blob/main/Data_Preprocessing_(chapter_3).ipynb)
     * Meta Data (Data ที่ใช้อธิบาย Data)
     * ชี้ข้อมมูลในตาราง
       * ชี้แบบธรรมดาใช้ [ชื่อคอลัมน์][ชื่อindex]
@@ -109,7 +109,7 @@ Group Name: ลูกหมี
       * [PD] การสร้างตาราง
 
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter4.pdf
+  * [Lecture Data Warehousing and On-line Analytical Processing](https://github.com/Nunticha24/DWDM21/blob/main/Chapter4.pdf)
     * What is a Data Warehouse?
     * From Tables and Spreadsheets to Data Cubes
     * Conceptual Modeling of Data Warehouses
@@ -125,7 +125,7 @@ Group Name: ลูกหมี
       * Drill through
 
 * บทที่ 5 Association Rules
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter6.pdf
+  * [Lecture Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://github.com/Nunticha24/DWDM21/blob/main/Chapter6.pdf)
     * Basic Concepts
       * What Is Pattern Discovery?
         * k-Itemsets and Their Supports
@@ -137,13 +137,13 @@ Group Name: ลูกหมี
         * Apriori Pruning and Scalable Mining Methods
         * A Candidate Generation & Test Approach
         * The Apriori Algorithm
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
+  * [Data 'reduced_marketbasket' Case](https://github.com/Nunticha24/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
     * ลบ recodes ที่ถูก cancel ออกไป
     * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
     * Apriori
 
 * บทที่ 6 Classification
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter8.pdf
+  * [Lecture Classification: Basic Concepts](https://github.com/Nunticha24/DWDM21/blob/main/Chapter8.pdf)
     * Basic Concepts
       * Supervised vs. Unsupervised Learning (1)
       * Supervised vs. Unsupervised Learning (2)
@@ -152,8 +152,8 @@ Group Name: ลูกหมี
     * Decision Tree Induction
       * An Example
       * Information Gain
-  * https://github.com/Nunticha24/DWDM21/blob/main/Decision_Tree.pdf
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb
+  * [Decision Tree คำนวณมือ](https://github.com/Nunticha24/DWDM21/blob/main/Decision_Tree.pdf)
+  * [Decision Tree](https://github.com/Nunticha24/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
     * Load Data
     * Train Model
       * import (เรียกใช้ algorithm algorithm ที่เราต้องการ)
@@ -164,14 +164,14 @@ Group Name: ลูกหมี
       * Random
     * Advanced Tree
     * TEST
-  * https://github.com/Nunticha24/DWDM21/blob/main/Lecture.pdf
+  * [Lecture k-Nearest Neighbor](https://github.com/Nunticha24/DWDM21/blob/main/Lecture.pdf)
     * Bayes’ Theorem: Basics
     * Naïve Bayes 
       * ClassifierCategorical vs. Continuous Valued Features
       * Training Dataset
     * Lazy Learner: Instance-Based Methods
     * The k-Nearest Neighbor Algorithm
-  * https://github.com/Nunticha24/DWDM21/blob/main/Lecture19_10_64.pdf
+  * [Lecture Evaluation & Neural Networks](https://github.com/Nunticha24/DWDM21/blob/main/Lecture19_10_64.pdf)
     * Model Evaluation and Selection
     * Classifier Evaluation Metrics
       * Confusion Matrix
@@ -179,7 +179,7 @@ Group Name: ลูกหมี
       * Precision and Recall, and F-measures
     * Neural Network for Classification
       * Perceptron
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter7Classification(KNN_NN).ipynb
+  * [Lecture Evaluation & Neural Networks](https://github.com/Nunticha24/DWDM21/blob/main/Chapter7Classification(KNN_NN).ipynb)
     * Losd data
     * Split Data
     * Train Model
@@ -194,7 +194,7 @@ Group Name: ลูกหมี
       * Train - Test
       * ANN2
       * ANN3
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb
+  * [Evaluation](https://github.com/Nunticha24/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb)
     * Load data
     * แบ่ง Data
     * สร้าง Model ทำนาย
@@ -204,7 +204,7 @@ Group Name: ลูกหมี
     * Evaluation
 
 * บทที่ 7 Clustering
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter8_Clustering.ipynb
+  * [Clustering](https://github.com/Nunticha24/DWDM21/blob/main/Chapter8_Clustering.ipynb)
     * K-means
       * Generate Data
       * Explore data
@@ -219,11 +219,9 @@ Group Name: ลูกหมี
         * ใช้ centroid เป็นตัวแทนของสี
 
 * MiniExam
-  * https://github.com/Nunticha24/DWDM21/blob/main/MiniExam.ipynb
+  * [MiniExam](https://github.com/Nunticha24/DWDM21/blob/main/MiniExam.ipynb)
 
-* Group Project
-  * Slide นำเสนอ
-  * https://github.com/Nunticha24/DWDM21/blob/main/Project%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B5.pdf
-  * Group Project
-    * https://github.com/Nunticha24/DWDM21/blob/main/Project_lookmhee.ipynb
+* Group Project กลุ่มลูกหมี
+  * [Group Project](https://github.com/Nunticha24/DWDM21/blob/main/Project_lookmhee.ipynb)
+  * [Slide นำเสนอ](https://github.com/Nunticha24/DWDM21/blob/main/Project%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B5.pdf)
   
