@@ -18,7 +18,7 @@ Group Name: ลูกหมี
 # สารบัญเนื้อหา
 
 * บทที่ 1 Introduction 
-  * [Lecture Introduction]https://github.com/Nunticha24/DWDM21/blob/main/Chapter1.pdf
+  * [title](https://www.example.com)
     * Why Data Mining?
     * What is Data Mining?
     * Knowledge Discovery (KDD) Process
