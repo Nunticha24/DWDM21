@@ -18,7 +18,7 @@ Group Name: ลูกหมี
 # สารบัญเนื้อหา
 
 * บทที่ 1 Introduction 
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter1.pdf
+  * [Lecture Introduction]https://github.com/Nunticha24/DWDM21/blob/main/Chapter1.pdf
     * Why Data Mining?
     * What is Data Mining?
     * Knowledge Discovery (KDD) Process
@@ -28,7 +28,7 @@ Group Name: ลูกหมี
       * Cluster Analysis
 
 * บทที่ 2 Getting to Know Your Data 
-  * https://github.com/Nunticha24/DWDM21/blob/main/Chapter2.pdf
+  * [Lecture Data Objects and Attribute Types]https://github.com/Nunticha24/DWDM21/blob/main/Chapter2.pdf
     * Types of Data Sets
       * Record Data
       * Graphs and Networks
